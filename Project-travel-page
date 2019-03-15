@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    
+    
+    
+    
+        <title>Project: Travel webpage</title>
+      <style>
+      
+     .Disneyland {
+          
+         
+     
+     
+     background-color:rgb(124, 235, 165);
+     color:rgb(232, 139, 232);
+     
+     
+      
+      
+      }
+          
+          body {
+              background-color:rgb(237, 202, 237);
+              
+          }
+          
+          h1 {
+              
+              color:rgb(186, 91, 186);
+          }
+          
+          #cost {
+              
+              background-color:rgb(186, 82, 186);
+              color:rgb(43, 113, 227);
+          }
+          
+          .money {
+              
+              background-color:rgb(222, 106, 222);
+          }
+          
+          #stuff {
+              
+              background-color:rgb(146, 199, 126);
+          }
+          
+           </style>  
+           
+        
+           
+        
+        
+        
+        
+    </head>
+    <body>
+    
+        <h1>Travel to Disney land </h1>
+        
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png">
+        
+        <p class="Disneyland"> <br><em>In Disneyland their is so much to do So many activities that bring so much joy to everyones's heart</em>. .<br> 
+        
+        <br>Disneyland is a place where you feel like your back in your childhood.
+        
+        <br>Disneyland is for all ages. Their are many rides like the tea cup ride, dumbo, elevator drop and more.<br> 
+        
+        <br>In Disneyland their are also many places to have an amazing lunch. </p> 
+        
+        
+        <h3 id="cost"> <strong>How much does it cost</strong></h3>
+        
+        <strong class="money">Two nights</strong> in disneyland cost $100<br>
+        <strong class="money">Four nights</strong> in disneyland cost $350
+        
+        <style>
+         h4 {
+             
+           font-size:35px;  
+           color:rgb(150, 90, 150);
+             
+         }    
+         
+         
+            
+            
+        </style>
+        
+        <h4>  
+            Activities 
+            
+        </h4>
+        
+        <ul>
+            <li> Epcot </li>
+            <li> Festivals </li>
+            <li> Glow nights </li>
+            <li> Magic Kindom </li>
+            <li> And much more </li>
+        
+            
+            
+        </ul>
+            
+            <h4 id = "stuff"><strong>These activities are very fun and amazing, you should visit and have fun. So many things to do, you'll always be running. </strong> </h4>
+            
+            
+
+    </body>
+</html>
